@@ -1,5 +1,5 @@
 # 💭 About Me:
-🖥️ I’m currently Learn WEB.<br>⚙️ I’m currently learning Web application development.<br>❔ Ask me<br>📧 How to reach me <a href = "https://c.tenor.com/EzSuupzTNkUAAAAd/tenor.gif">⁉️</a>[Click the emoji for more].<br>🧠 Developer of <a href = "https://www.instagram.com/inhabitant.os/">Inhabitant</a>.
+🖥️ I’m currently Learn WEB.<br>⚙️ I’m currently learning Web application development.<br>❔📧 How to reach me <a href = "https://c.tenor.com/EzSuupzTNkUAAAAd/tenor.gif">⁉️</a>[Click the emoji for more].<br>🧠 Developer of <a href = "https://www.instagram.com/inhabitant.os/">Inhabitant</a>.
 
 
 ## 🌐 Socials:
