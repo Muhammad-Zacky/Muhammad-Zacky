@@ -1,7 +1,7 @@
 ### Hello World 🌎
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjean-jacques10/)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jjeanjacques10/)](https://github.com/jjeanjacques10/) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber)](https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jjeanjacques10.medium.com)](https://jjeanjacques10.medium.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/jjean_dev) ![](https://komarev.com/ghpvc/?username=jjeanjacques10)
 
-<img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
+<img src="./linux.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
 Hi, my name is Jean Jacques Barros! I like to share knowledge and solve problems and in my perspective, technology is a means to achieve these goals. I currently work as a Software Engineer in a Brazilian Bank. I've been dedicating my time to creating content about IT on my Blog/GitHub and learning about Microservices, Java Spring, and Cloud Technologies. <br> <br>
@@ -18,8 +18,8 @@ Hi, my name is Jean Jacques Barros! I like to share knowledge and solve problems
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Muhammad-Zacky&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhammad-Zacky&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
