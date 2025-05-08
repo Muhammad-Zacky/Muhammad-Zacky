@@ -30,16 +30,11 @@ username : @f0rens1c:
  
 ### :book: Learned technologies
 
-<code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code> 
-<code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/Learned_technologies/java.png" width="22px" alt="java"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/css.png" width="26px" alt="css"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky/Muhammad-Zacky/blob/main/resources/keyboard-shortcuts-windows.pdf" target="_blank"><img src="img/Learned_technologies/vscode.png" width="26px" alt="vscode"></a></code>
-<code><a href="https://github.com/danielex1999/Muhammad-Zacky/blob/main/resources/IntelliJIDEA_ReferenceCard.pdf" target="_blank"><img src="img/Learned_technologies/IntelliJ.png" width="26px" alt="intellJ"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/mysql.png" width="26px" alt="vscode"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky/danielex1999/blob/main/resources/github-git-cheat-sheet.pdf" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/terminal.png" width="26px" alt="terminal"></a></code>
+<code><a href="https://www.selenium.dev" target="_blank"><img src="img/git.png"	width="26px" alt="selenium"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/wireshark.png" width="22px" alt="js"></a></code> 
+<code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/python.png" width="22px" alt="java"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/lua.png" width="30px" alt="html"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/db.png" width="26px" alt="css"></a></code>
 
 ---
 
