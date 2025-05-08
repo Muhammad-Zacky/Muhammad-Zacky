@@ -1,109 +1,47 @@
-<!-- My Readme Profile!
-I have spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
+## About me
 
-**Acknowledgements**
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
+<img align="right" width="245" src="img/noctis.gif"/>
 
-**Authors**
-@HyunCafe
+### `Hello` I'm Juan Daniel Cavero Tovar.
 
-**Deployment**
-Creating a README on GitHub is a simple process. Here are the steps:
+![](https://komarev.com/ghpvc/?username=Muhammad-Zacky&color=00a0a0&style=plastic)
 
-Click the "Create new file" button located in a new github repository (your username).
+username : @f0rens1c:
 
-In the "Name your file" field, enter "README.md" (without the quotes).
+```
+Embrace your dreams, and, whatever happens protect your honor...as SOLDIER 
+```
 
-Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
+---
 
-Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
+# Biography
 
-Your README will now be visible on the main page of your repository! -->
+### :books: I'm currently learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Hyun+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Hyun Welcome to my Profile! animated typed out">
-<img  src="assests/borderseperator.gif">
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/python.png"	width="26px" alt="pyton"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/azure.svg"	width="30px" alt="azure"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/spring.png"	width="26px" alt="springboot"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/liferay.png"	width="25px" alt="Liferay"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/grafana.png"	width="25px" alt="Grafana"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky/Muhammad-Zacky/blob/main/resources/PostgreSQL-Cheat-Sheet.pdf" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
+<code><a href="https://angular.io" target="_blank"><img src="img/currently_learning/angular.svg"	width="24px" alt="angular"></a></code>
+ 
+### :file_folder: Learned technologies
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=muhammadzacky&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
-</p> <br>
+<code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code> 
+<code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/Learned_technologies/java.png" width="22px" alt="java"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/css.png" width="26px" alt="css"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky/Muhammad-Zacky/blob/main/resources/keyboard-shortcuts-windows.pdf" target="_blank"><img src="img/Learned_technologies/vscode.png" width="26px" alt="vscode"></a></code>
+<code><a href="https://github.com/danielex1999/Muhammad-Zacky/blob/main/resources/IntelliJIDEA_ReferenceCard.pdf" target="_blank"><img src="img/Learned_technologies/IntelliJ.png" width="26px" alt="intellJ"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/mysql.png" width="26px" alt="vscode"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky/danielex1999/blob/main/resources/github-git-cheat-sheet.pdf" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/Learned_technologies/terminal.png" width="26px" alt="terminal"></a></code>
 
-<a href="https://app.daily.dev/muhammadzacky"> <img align='right' src="https://api.daily.dev/devcards/v2/4xynrHmHYVvJJUv1gov3n.png?type=default&r=vvp" width="350" alt="HyunSun's Dev Card" /></a>
-
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
-
-* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
-Actively Going through:
-  - 100 Devs with Leon
-  - The Odin Project: Fundamentals + Full Stack JavaScript
-  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
-
-* 🐾 I’m looking to network and make friends here! <br><br>
-
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
-
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
-
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
-
-<h2></h2><br>
-
-<p align="center"> 
-  <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
-</p>
-
-<div align="center">
-  <h2> <strong> Actively Learning </strong></h2>
-  <img src="https://skillicons.dev/icons?i=bash,git,linux,nim,html,css,js,react" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=py,bootstrap,sass,ts,netlify" alt="skills planning to learn logos">
-</div>
-
-<p align="center"><br>
-  <img align="center" src="assests/lofi.gif" alt="Lofi Girl drinking coffee coding" /> <br>
-</p>
-  
-<div align="center">
-  <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Zacky&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
-
-   <p>
-    <a href="https://www.codewars.com/users/HyunCafe">
-      <img src="https://github.r2v.ch/codewars?user=Muhammad-Zacky&top_languages=true&theme=midnight_blue" height="200" alt="codewar stats" />
-    </a>
-  </p>
-
-  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=Muhammad-Zacky&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
-
-  <img src="https://streak-stats.demolab.com?    user=Muhammad-Zacky&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
-
-  <img src="https://github-readme-stats2-olive.vercel.app/api?username=Muhammad-Zacky&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
-
-[![HyunCafe's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=Muhammad-Zacky&custom_title=HyunCafe's%20GitHub%20Activity%20Graph&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/Muhammad-Zacky/github-readme-activity-graph)
+---
 
 <p align="center">
-<img src="assests/loficity.gif" alt="Lofi Nightlife city scene" />
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Muhammad-Zacky&margin-w=10&row=1&theme=gruvbox&no-bg=true"/>
 </p>
-
-<img src="assests/borderseperator.gif">
-  <h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hyuncafe/" target="_blank">
-    <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Muhammad-Zacky" target="_blank">
-    <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
-  </a> &nbsp;&nbsp;
-  
-  <a href="mailto:eparksuncafe@gmail.com" target="_blank">
-    <img align="center" alt="gmail logo" height="50" width="50" src="assests/gmailogo.png" />
-  </a> &nbsp;&nbsp;
-
-  <a href="https://dev.to/muhammadzacky" target="_blank">
-    <img align="center" alt="My Dev.to link" height="50" width="50" src="assests/devtologo.png"/>
-</a> &nbsp;&nbsp;
-  <a>
-</p> 
