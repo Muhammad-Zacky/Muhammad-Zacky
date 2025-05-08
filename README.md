@@ -9,7 +9,7 @@
 username : @f0rens1c:
 
 ```
-Embrace your dreams, and, whatever happens protect your honor...as SOLDIER 
+"Me trying to make a business around Linux would have been a total disaster." ~ Linus Torvalds
 ```
 
 ---
