@@ -18,10 +18,10 @@ username : @f0rens1c:
 
 ### :computer: Using
 
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/pycharm.png"	width="26px" alt="pyton"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/backbox.jpeg"	width="30px" alt="azure"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/qemu.png"	width="26px" alt="springboot"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/vscode.png"	width="25px" alt="Liferay"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/pycharm.png"	width="26px" alt="pyton"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="imgbackbox.jpeg"	width="30px" alt="azure"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/qemu.png"	width="26px" alt="springboot"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/vscode.png"	width="25px" alt="Liferay"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/grafana.png"	width="25px" alt="Grafana"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky/Muhammad-Zacky/blob/main/resources/PostgreSQL-Cheat-Sheet.pdf" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
