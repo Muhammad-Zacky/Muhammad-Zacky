@@ -9,7 +9,7 @@
 username : @f0rens1c:
 
 ```
-Wi wok de tok, not onle!
+Copy this if you ever need motivation.
 ```
 
 ---
