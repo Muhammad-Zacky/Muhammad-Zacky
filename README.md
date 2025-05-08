@@ -16,7 +16,7 @@ username : @f0rens1c:
 
 # Biography
 
-### :books: I'm currently learning
+### :computer: Using
 
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/python.png"	width="26px" alt="pyton"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/azure.svg"	width="30px" alt="azure"></a></code>
@@ -27,7 +27,7 @@ username : @f0rens1c:
 <code><a href="https://github.com/Muhammad-Zacky/Muhammad-Zacky/blob/main/resources/PostgreSQL-Cheat-Sheet.pdf" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
 <code><a href="https://angular.io" target="_blank"><img src="img/currently_learning/angular.svg"	width="24px" alt="angular"></a></code>
  
-### :file_folder: Learned technologies
+### :book: Learned technologies
 
 <code><a href="https://www.selenium.dev" target="_blank"><img src="img/Learned_technologies/selenium.png"	width="26px" alt="selenium"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code> 
