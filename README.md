@@ -20,8 +20,10 @@ username : @f0rens1c:
 
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/garuda.png"	width="26px" alt="pyton"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/linug.png"	width="30px" alt="azure"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/cubic.png"	width="25px" alt="Grafana"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/qemu.png"	width="26px" alt="springboot"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/vscode.png"	width="25px" alt="Liferay"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/pycharm.png"	width="25px" alt="Grafana"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/shell.png"	width="20px" alt="Jenkins"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/thor.png"	width="25px" alt="Grafana"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/backbox.jpeg"	width="25px" alt="Grafana"></a></code>
