@@ -16,7 +16,7 @@ username : @f0rens1c:
 
 # Biography
 
-### :computer: Learned
+### :anchor: Tools
 
 <code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/garuda.png"	width="26px" alt="null"></a></code>
 <code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/kali.png"	width="26px" alt="null"></a></code>
@@ -29,7 +29,7 @@ username : @f0rens1c:
 <code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/thor.png"	width="25px" alt="null"></a></code>
 <code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/backbox.jpeg"	width="25px" alt="null"></a></code>
  
-### :book: Learn
+### :spiral_notepad: Learn
 
 <code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/gito.png"	width="25px" alt="null"></a></code>
 <code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/wireshark.png" width="22px" alt="null"></a></code> 
