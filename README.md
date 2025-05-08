@@ -2,7 +2,7 @@
 
 <img align="right" width="245" src="img/noctis.gif"/>
 
-### `Hello` I'm Juan Daniel Cavero Tovar.
+### `Hello` I'm Muhammad Zacky.
 
 ![](https://komarev.com/ghpvc/?username=Muhammad-Zacky&color=00a0a0&style=plastic)
 
