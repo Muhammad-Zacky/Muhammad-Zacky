@@ -32,7 +32,7 @@ username : @f0rens1c:
 
 <code><a href="https://www.selenium.dev" target="_blank"><img src="img/git.png"	width="35px" alt="selenium"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/wireshark.png" width="22px" alt="js"></a></code> 
-<code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/python.png" width="22px" alt="java"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/python.png" width="35px" alt="java"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/lua.png" width="30px" alt="html"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/db.png" width="26px" alt="css"></a></code>
 
