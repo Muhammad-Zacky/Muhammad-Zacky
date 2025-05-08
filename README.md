@@ -9,7 +9,7 @@
 username : @f0rens1c:
 
 ```
-"Me trying to make a business around Linux would have been a total disaster." ~ Linus Torvalds
+Wi wok de tok, not onle!
 ```
 
 ---
