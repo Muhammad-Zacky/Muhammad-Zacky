@@ -30,7 +30,7 @@ username : @f0rens1c:
  
 ### :book: Learned technologies
 
-<code><a href="https://www.selenium.dev" target="_blank"><img src="img/git.png"	width="45px" alt="selenium"></a></code>
+<code><a href="https://www.selenium.dev" target="_blank"><img src="img/git.png"	width="40px" alt="selenium"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/wireshark.png" width="22px" alt="js"></a></code> 
 <code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/python.png" width="55px" alt="java"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/lua.png" width="30px" alt="html"></a></code>
