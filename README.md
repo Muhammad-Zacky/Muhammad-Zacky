@@ -18,14 +18,13 @@ username : @f0rens1c:
 
 ### :computer: Using
 
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/pycharm.png"	width="26px" alt="pyton"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="imgbackbox.jpeg"	width="30px" alt="azure"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/garuda.png"	width="26px" alt="pyton"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/linug.png"	width="30px" alt="azure"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/qemu.png"	width="26px" alt="springboot"></a></code>
 <code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/vscode.png"	width="25px" alt="Liferay"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/Jenkins_logo.svg"	width="20px" alt="Jenkins"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/currently_learning/grafana.png"	width="25px" alt="Grafana"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky/Muhammad-Zacky/blob/main/resources/PostgreSQL-Cheat-Sheet.pdf" target="_blank"><img src="img/currently_learning/postgresql.png"	width="25px" alt="postgresql"></a></code>
-<code><a href="https://angular.io" target="_blank"><img src="img/currently_learning/angular.svg"	width="24px" alt="angular"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/shell.png"	width="20px" alt="Jenkins"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/thor.png"	width="25px" alt="Grafana"></a></code>
+<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/backbox.jpeg"	width="25px" alt="Grafana"></a></code>
  
 ### :book: Learned technologies
 
