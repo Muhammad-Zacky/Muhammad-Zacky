@@ -1,6 +1,6 @@
 ## About me
 
-<img align="right" width="245" src="img/noctis.gif"/>
+<img align="right" width="245" src="img/linux.png"/>
 
 ### `Hello` I'm Muhammad Zacky.
 
