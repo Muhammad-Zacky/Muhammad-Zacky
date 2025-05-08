@@ -18,23 +18,24 @@ username : @f0rens1c:
 
 ### :computer: Using
 
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/garuda.png"	width="26px" alt="pyton"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/linug.png"	width="30px" alt="azure"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/cubic.png"	width="25px" alt="Grafana"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/qemu.png"	width="26px" alt="springboot"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/vscode.png"	width="25px" alt="Liferay"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/pycharm.png"	width="25px" alt="Grafana"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/shell.png"	width="20px" alt="Jenkins"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/thor.png"	width="25px" alt="Grafana"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/backbox.jpeg"	width="25px" alt="Grafana"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/garuda.png"	width="26px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/kali.png"	width="26px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/linug.png"	width="30px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/cubic.png"	width="25px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/qemu.png"	width="26px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/vscode.png"	width="25px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/pycharm.png"	width="25px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/shell.png"	width="20px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/thor.png"	width="25px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/backbox.jpeg"	width="25px" alt="null"></a></code>
  
 ### :book: Learned technologies
 
-<code><a href="https://www.selenium.dev" target="_blank"><img src="img/gito.png"	width="35px" alt="selenium"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky/JavaScript-Course" target="_blank"><img src="img/wireshark.png" width="22px" alt="js"></a></code> 
-<code><a href="https://github.com/Muhammad-Zacky/Java-Course" target="_blank"><img src="img/python.png" width="55px" alt="java"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/lua.png" width="30px" alt="html"></a></code>
-<code><a href="https://github.com/Muhammad-Zacky" target="_blank"><img src="img/db.png" width="26px" alt="css"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/gito.png"	width="25px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/wireshark.png" width="22px" alt="null"></a></code> 
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/python.png" width="55px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/lua.png" width="30px" alt="null"></a></code>
+<code><a href="https://media.tenor.com/nisaHYy8yAYAAAAM/besito-catlove.gif" target="_blank"><img src="img/db.png" width="26px" alt="null"></a></code>
 
 ---
 
