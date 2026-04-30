@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Zacky&color=00a0a0&style=plastic" alt="Profile Views" />
 </p>
 
-### My GitHub Contribution Snake
+### GitHub Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Zacky/Muhammad-Zacky/output/github-snake-dark.svg">
